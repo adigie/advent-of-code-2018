@@ -1,0 +1,7 @@
+[package]
+name = "day-2"
+version = "0.1.0"
+authors = ["Adrian Gielniewski <adrian.gielniewski@comarch.pl>"]
+edition = "2018"
+
+[dependencies]
